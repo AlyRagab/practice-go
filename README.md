@@ -32,6 +32,7 @@
 19. ([@shogg](https://github.com/shogg)) [snowflakes](https://github.com/plutov/practice-go/tree/master/019-snowflakes)
 20. ([@shogg](https://github.com/shogg)) [brokennode](https://github.com/plutov/practice-go/tree/master/020-brokennode)
 21. ([@shogg](https://github.com/shogg)) [nasacollage](https://github.com/plutov/practice-go/tree/master/021-nasacollage)
+22. [telnet-chat](https://github.com/plutov/practice-go/tree/master/022-telnet-chat)
 
 ### Run tests with benchmarks
 
